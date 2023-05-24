@@ -1,0 +1,7 @@
+Steps:
+1. Start tutorial
+2. Save scrape files in 'spiders' folder in 'tutorial' folder
+3. Go to tutorial folder in shell 
+4. Run the following 
+scrapy crawl scrape_css -o css-scraper-results.json
+scrapy crawl scrape_path -o path-scraper-results.json
