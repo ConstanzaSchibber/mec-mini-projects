@@ -1,48 +1,25 @@
 # Machine Learning Engineering Course Mini-Projects
 
-Welcome to the repository of the current mini-projects for the Machine Learning Engineering course. As you work through the curriculum, you will need to complete each mini-project and review and discuss them with your Mentor.
+The following are my mini project solutions:
 
-It is highly recommended to fork this repository on Github and share it with your Mentor so that they can easily follow your progress.  Here is an excellent resource that details how to do it: https://docs.github.com/en/github/getting-started-with-github/fork-a-repo
+## Data Wrangling in Pandas & Visualization
 
-## Installation
+[API and Data Wrangling in Python](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-3.4.1-api-mini-project/api_data_wrangling_mini_project_ANSWER.ipynb)
 
-Below are detailed instructions on how to get those mini-projects up and running. None of those projects should require tons of CPU or memory, so you are welcome to run those locally on your computer or through any hosted jupyter notebook services such as Deepnote or Google's Collab.
+[Data Wrangling with Pandas and Visualization in Matplotlib & Seaborn](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-5.3.10-data-wranging-with-pandas-mini-project/ANSWER_Mini_Project_Data_Wrangling_Pandas.ipynb)
 
-### Local
+[Data Wrangling JSON with Pandas](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-5.4.4-json-data-wrangling-mini-project/ANSWER_Mini_Project_Wrangling_Json_Exercise.ipynb)
 
-Now, to run those projects locally, we recommend you first install Anaconda for your operating system (Windows, Mac, Linux) by downloading it and following the instructions here: https://www.anaconda.com/products/individual#Downloads
+[Webscraping](https://github.com/ConstanzaSchibber/mec-mini-projects/tree/master/mec-5.5.4-webscraping-project)
 
-Once Anaconda is installed, run the following command to create a dedicated python environment with all the libraries and packages needed to run all the mini projects in this repo:
-```conda env create -f environment.yml```
+## SQL, Spark, and Databricks
 
-Then activate the environment by running:
-```conda activate mec-miniprojects```
+[SQL at Scale with Spark SQL in Databricks](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb)
 
-Then create an ipython kernel for Jupyter based on this environment:
-```python -m ipykernel install --user --name mec-miniprojects --display-name "Python (MEC Mini-Projects)"```
+[Analyzing Web Server Logs with Spark in Databricks](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-6.4.1-data-wrangling-at-scale-with-spark/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
 
-Finally, launch Jupyter Lab and navigate to each mini-project notebook and make sure to select the kernel that you created above:
-```jupyter lab```
+## Linear & Logistic Regression
 
-### Google Colab
+[Linear Regression in Python](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-11.4.1-linear-regression-mini-project/ANSWER_Mini_Project_Linear_Regression.ipynb)
 
-It is straightforward to work and run the notebooks for each mini-project (that is, except mec-5.5.4-webscraping-project since it is not a notebook-style mini project)in Google Colab by leveraging the Github integration
-Please note that you will need to have forked the mini-projects repository for this to work.
-
-Here are the steps:
-- Go to https://colab.research.google.com/ (and log in with a Google account)
-- Select File -> Open Notebook
-- Select the Github Tab in the popup window which opened
-- Login with your Github account, and allow Google Colab to have read/write access to your private repositories
-- Once the authorization is processed, you should now see a list of all your repositories on Github. All you need to do for this step is to select the forked mec-mini-projects repo
-- Once the mec-mini-projects repo is selected, Colab will ask you which notebook you want to open in that repo. 
-- After selecting the mini-project notebook of your choice, it will be open and ready to use
-
-Once you are done working on your mini-project notebook in Colab, you can easily save a copy of your notebook back to Github by clicking on File -> Save a Copy To Github, and it will ask you to enter a commit message, a file name. It will then commit your changes and work to Github.
-
-#### Cautionary words
-While super easy to get up and running and an excellent environment for all the MEC mini-projects, Google Collab has one main drawback: python library versions. You can easily install packages, but Colab comes with a fleet of existing data science-related packages. They may not always be the same version expected in the various mini-projects. There can sometimes be incompatibilities, requiring you to install or upgrade some of the packages needed.
-
-## Contributions & PRs welcome!
-
-To provide the best possible learning content to our students, please do not hesitate to open Github issues or submit PRs if you catch any typos in those mini-projects.
+[Logistic Regression in Python](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-12.4.2-logistic-regression-mini-project/ANSWER_Mini_Project_Logistic_Regression.ipynb)
