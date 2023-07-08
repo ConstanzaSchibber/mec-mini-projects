@@ -23,3 +23,7 @@ The following are my mini project solutions:
 [Linear Regression in Python](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-11.4.1-linear-regression-mini-project/ANSWER_Mini_Project_Linear_Regression.ipynb)
 
 [Logistic Regression in Python](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-12.4.2-logistic-regression-mini-project/ANSWER_Mini_Project_Logistic_Regression.ipynb)
+
+## Anomaly Detection
+
+[Anomaly Detection with Isolation Forest, Clustering Based Local Outlier Factor (CBLOF), and Auto-Encoders ](https://github.com/ConstanzaSchibber/ANSWER_mec-mini-projects/tree/master/mec-16.4.1-anomaly-detection-mini-project)
