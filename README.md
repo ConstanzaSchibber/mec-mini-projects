@@ -28,4 +28,4 @@ The following are my mini project solutions:
 
 - [Anomaly Detection with Isolation Forest, Clustering Based Local Outlier Factor (CBLOF), and Auto-Encoders ](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-16.4.1-anomaly-detection-mini-project/ANSWER_Mini_Project_Anomaly_Detection.ipynb)
 
-- [Customer Segmentation Clustering: K-Means, PCA, Affinity Propagation, Spectral Clustering, and others][https://github.com/ConstanzaSchibber/mec-mini-projects/tree/master/ANSWER_mec-16.2.6-clustering-mini-project]
+- [Customer Segmentation Clustering: K-Means, PCA, Affinity Propagation, Spectral Clustering, and others](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-16.2.6-clustering-mini-project/ANSWER_Mini_Project_Clustering.ipynb)
