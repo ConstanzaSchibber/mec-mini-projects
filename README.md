@@ -29,3 +29,11 @@ The following are my mini project solutions:
 - [Anomaly Detection with Isolation Forest, Clustering Based Local Outlier Factor (CBLOF), and Auto-Encoders ](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-16.4.1-anomaly-detection-mini-project/ANSWER_Mini_Project_Anomaly_Detection.ipynb)
 
 - [Customer Segmentation Clustering: K-Means, PCA, Affinity Propagation, Spectral Clustering, and others](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-16.2.6-clustering-mini-project/ANSWER_Mini_Project_Clustering.ipynb)
+
+## Decision Trees, Random Forest, and XGBoost
+
+- [Predicting Credit Worthiness with Decision Tress, Random Forest, and XGBoots](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-13.5.1-tree-based-algorithms-mini-project/ANSWER_Mini_Project_Tree-Based_Algorithms.ipynb)
+
+## Recommendation Systems
+
+- [Movie Recommendation Systems using TensowFlow](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-17.4.1-recommendation-systems-mini-project/ANSWER_Mini_Project_Recommendation_Systems.ipynb)
