@@ -37,3 +37,7 @@ The following are my mini project solutions:
 ## Recommendation Systems
 
 - [Movie Recommendation Systems using TensowFlow](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-17.4.1-recommendation-systems-mini-project/ANSWER_Mini_Project_Recommendation_Systems.ipynb)
+
+## Time-Series Forecasting
+
+- [Long Short-Term Memory (LSTM) networks](https://github.com/ConstanzaSchibber/mec-mini-projects/tree/master/mec-18.5.1-time-series-analysis-mini-project)  
