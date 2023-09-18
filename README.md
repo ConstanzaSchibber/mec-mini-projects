@@ -18,6 +18,8 @@ The following are my mini project solutions:
 
 - [Analyzing Web Server Logs with Spark in Databricks](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-6.4.1-data-wrangling-at-scale-with-spark/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
 
+- [Spark ML: Logistic Regression, Gradient-Boosted Trees Classified, and Random Forest Classifier](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1183862977022314/4169582467311006/2666844261262802/latest.html)
+
 ## Linear & Logistic Regression
 
 - [Linear Regression in Python](https://github.com/ConstanzaSchibber/mec-mini-projects/blob/master/mec-11.4.1-linear-regression-mini-project/ANSWER_Mini_Project_Linear_Regression.ipynb)
